@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wish List</string>
+    <string name="name_hint">Shop Anything!</string>
+    <string name="url_hint">http://</string>
+    <string name="price_hint">$0.00</string>
+
+
+</resources>
